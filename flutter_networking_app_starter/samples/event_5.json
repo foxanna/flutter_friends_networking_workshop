@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "5",
+    "name": "Flutter Conf Latam",
+    "imageUrl": "http://127.0.0.1:8080/images/flutter_latam.png",
+    "website": "https://flutterconflatam.dev/",
+    "type": "CONF",
+    "announced": true,
+    "details": {
+      "description": "Largest and most anticipated Flutter conference in Latin America",
+      "startDate": "2023-10-25T00:00:00.000Z",
+      "endDate": "2023-10-26T00:00:00.000Z",
+      "location": {
+        "address": "Medellin, Columbia",
+        "type": "in-person"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T16:00:15.439201Z"
+}

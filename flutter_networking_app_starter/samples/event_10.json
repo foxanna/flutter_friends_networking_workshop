@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": "10",
+    "name": "Devfest Alps 2023",
+    "imageUrl": "http://127.0.0.1:8080/images/devfest_alps.png",
+    "website": "https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2023",
+    "type": "DEV_FEST",
+    "announced": true,
+    "details": {
+      "description": "GDG Turin, GDG Valle D'Aosta and GDG Cuneo once again bring Devfest to the foot of the Alps!\nDevfest Alps 2023 is the event for developers, designers and tech enthusiasts!\nA whole day dedicated to talks and workshops, improve your skills and meet new people\nAnd this year also a dj-set on Friday evening!",
+      "startDate": "2023-12-01T00:00:00.000Z",
+      "endDate": "2023-12-02T00:00:00.000Z",
+      "location": {
+        "streamUrl": "https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2023/",
+        "address": "Toolbox Coworking, Turin, Italy",
+        "type": "hybrid"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T16:01:26.611813Z"
+}

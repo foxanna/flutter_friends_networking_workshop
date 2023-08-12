@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Flutter & Friends",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_friends.png",
+      "type": "CONF",
+      "startDate": "2023-09-03",
+      "endDate": "2023-09-05"
+    },
+    {
+      "id": "2",
+      "name": "Flutter Meetup: September Gathering @ Google Munich",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_munich.png",
+      "type": "MEETUP",
+      "startDate": "2023-09-06",
+      "endDate": "2023-09-06"
+    },
+    {
+      "id": "3",
+      "name": "Flutter Firebase Festival",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_firebase.png",
+      "type": "CONF",
+      "startDate": "2023-09-26",
+      "endDate": "2023-09-27"
+    },
+    {
+      "id": "4",
+      "name": "droidcon Italy",
+      "imageUrl": "http://127.0.0.1:8080/images/droidcon_italy.png",
+      "type": "CONF",
+      "startDate": "2023-10-12",
+      "endDate": "2023-10-13"
+    },
+    {
+      "id": "5",
+      "name": "Flutter Conf Latam",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_latam.png",
+      "type": "CONF",
+      "startDate": "2023-10-25",
+      "endDate": "2023-10-26"
+    },
+    {
+      "id": "6",
+      "name": "DroidCon London",
+      "imageUrl": "http://127.0.0.1:8080/images/droidcon_london.png",
+      "type": "CONF",
+      "startDate": "2023-10-26",
+      "endDate": "2023-10-27"
+    },
+    {
+      "id": "7",
+      "name": "Flutter Kaigi",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_kaigi.png",
+      "type": "CONF",
+      "startDate": "2023-11-10",
+      "endDate": "2023-11-10"
+    },
+    {
+      "id": "8",
+      "name": "Flutteristas conference",
+      "imageUrl": "http://127.0.0.1:8080/images/flutteristas.png",
+      "type": "CONF",
+      "startDate": "2023-11-11",
+      "endDate": "2023-11-11"
+    },
+    {
+      "id": "9",
+      "name": "Flutter Conf India",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_india.png",
+      "type": "CONF",
+      "startDate": "2023-11-25",
+      "endDate": "2023-11-25"
+    },
+    {
+      "id": "10",
+      "name": "Devfest Alps 2023",
+      "imageUrl": "http://127.0.0.1:8080/images/devfest_alps.png",
+      "type": "DEV_FEST",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-02"
+    },
+    {
+      "id": "11",
+      "name": "Flutter Global Summit",
+      "imageUrl": "http://127.0.0.1:8080/images/flutter_summit.png",
+      "type": "CONF"
+    }
+  ],
+  "timestamp": "2023-08-28T15:57:56.629533Z"
+}

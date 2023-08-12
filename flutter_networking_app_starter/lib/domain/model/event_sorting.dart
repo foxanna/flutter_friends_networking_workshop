@@ -1,0 +1,4 @@
+enum EventSorting {
+  byName,
+  byDate,
+}

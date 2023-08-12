@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "4",
+    "name": "droidcon Italy",
+    "imageUrl": "http://127.0.0.1:8080/images/droidcon_italy.png",
+    "website": "https://it.droidcon.com/2023/",
+    "type": "CONF",
+    "announced": true,
+    "details": {
+      "description": "droidcon Italy is the annual Android dev conference in person in Turin, Italy, and broadcast live. The Italian edition features international speakers and sponsors, and welcomes participants from all over Europe, and connected online from all over the globe.\nThis year’s event will feature two tracks of the best Android content, a huge exhibition area with lots of networking space, physical and online job boards, the aperitivo and plenty of chances to upskill in Android with like minded devs.",
+      "startDate": "2023-10-12T00:00:00.000Z",
+      "endDate": "2023-10-13T00:00:00.000Z",
+      "location": {
+        "address": "Museo dell’Automobile, Turin, Italy",
+        "type": "Zoom"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T16:00:00.153627Z"
+}

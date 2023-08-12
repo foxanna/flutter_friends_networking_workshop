@@ -1,0 +1,17 @@
+name: flutter_networking_api
+description: An API for the "Basic and advanced networking in Dart and Flutter" workshop
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  dart_frog: 1.0.0
+  dartx: 1.2.0
+  data_source:
+    path: packages/data_source
+  shelf_cors_headers: ^0.1.5
+
+dev_dependencies:
+  very_good_analysis: 5.0.0

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "2",
+    "name": "Flutter Meetup: September Gathering @ Google Munich",
+    "imageUrl": "http://127.0.0.1:8080/images/flutter_munich.png",
+    "website": "https://www.meetup.com/flutter-munich/events/295222238/",
+    "type": "MEETUP",
+    "announced": true,
+    "details": {
+      "description": "Welcome to our next Flutter event! We're back at the Google office and looking forward to seeing all the Flutter fans, familiar and new.",
+      "startDate": "2023-09-06T00:00:00.000Z",
+      "endDate": "2023-09-06T00:00:00.000Z",
+      "location": {
+        "address": "Google office, Munich, Germany",
+        "type": "in-person"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T15:59:26.073691Z"
+}

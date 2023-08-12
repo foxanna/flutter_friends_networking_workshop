@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "7",
+    "name": "Flutter Kaigi",
+    "imageUrl": "http://127.0.0.1:8080/images/flutter_kaigi.png",
+    "website": "https://flutterkaigi.jp/2023/",
+    "type": "WORKSHOP",
+    "announced": true,
+    "details": {
+      "description": "In 2023, a technical conference mainly dealing with Flutter in Japan.\nWe plan many sessions by developers with deep knowledge of Flutter and Dart.",
+      "startDate": "2023-11-10T00:00:00.000Z",
+      "endDate": "2023-11-10T00:00:00.000Z",
+      "location": {
+        "address": "Kaigi, Japan",
+        "type": "in-person"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T16:00:43.181900Z"
+}

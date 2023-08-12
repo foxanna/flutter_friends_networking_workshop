@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "3",
+    "name": "Flutter Firebase Festival",
+    "imageUrl": "http://127.0.0.1:8080/images/flutter_firebase.png",
+    "website": "https://f3.events/",
+    "type": "CONF",
+    "announced": true,
+    "details": {
+      "description": "Join us in unifying the Flutter & Firebase communities in the heart of Europe. F3 is a two-day event with talks, workshops, and codelabs from the leading experts in the industry.",
+      "startDate": "2023-09-26T00:00:00.000Z",
+      "endDate": "2023-09-27T00:00:00.000Z",
+      "location": {
+        "address": "Prague Congress Centre, Prague, Czechia",
+        "type": "in-person"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T15:59:43.839939Z"
+}

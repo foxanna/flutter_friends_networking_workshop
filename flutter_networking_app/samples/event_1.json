@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "1",
+    "name": "Flutter & Friends",
+    "imageUrl": "http://127.0.0.1:8080/images/flutter_friends.png",
+    "website": "https://www.flutterfriends.dev/",
+    "type": "CONF",
+    "announced": true,
+    "details": {
+      "description": "Flutter & Friends is a dual track conference for the community by the community, taking place in Stockholm, Sweden on September 3-5th 2023.\nBesides learning from passionate and inspiring speakers you will be enjoying a pre-conference social day getting to know new friends as well as participate in hands-on workshops led by some of the community's top educators with a big prize hackathon at the end!\nWhether you're a first-time visitor to Stockholm or a seasoned local, you'll have a blast exploring the city with new acquaintances through a carefully curated selection of social activities. From scenic bike tours and thrilling theme parks, to enlightening museum visits, there's something for everyone to enjoy.",
+      "startDate": "2023-09-03T00:00:00.000Z",
+      "endDate": "2023-09-05T00:00:00.000Z",
+      "location": {
+        "address": "Kulturhuset Stadsteatern, Stockholm, Sweden",
+        "type": "in-person"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T15:58:33.295691Z"
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "8",
+    "name": "Flutteristas conference",
+    "imageUrl": "http://127.0.0.1:8080/images/flutteristas.png",
+    "website": "https://flutteristas.org/",
+    "type": "CONF",
+    "announced": true,
+    "details": {
+      "description": "The Flutteristas is a world-wide community of people whose gender identity is either female or non-binary and have an interest in the Flutter SDK.",
+      "startDate": "2023-11-11T00:00:00.000Z",
+      "endDate": "2023-11-11T00:00:00.000Z",
+      "location": {
+        "streamUrl": "https://www.youtube.com/@FlutterCommunity",
+        "type": "online"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T16:00:58.453817Z"
+}

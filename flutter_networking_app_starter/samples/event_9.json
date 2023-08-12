@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "9",
+    "name": "Flutter Conf India",
+    "imageUrl": "http://127.0.0.1:8080/images/flutter_india.png",
+    "website": "https://flutterconf.in/",
+    "type": "CONF",
+    "announced": true,
+    "details": {
+      "description": "Flutter Conf India is India's largest content-centric conference. As the name suggests, it mainly focuses on quality content for Dart and Flutter delivered by some well-known and top-notch speakers from big tech companies and communities around the world.",
+      "startDate": "2023-11-25T00:00:00.000Z",
+      "endDate": "2023-11-25T00:00:00.000Z",
+      "location": {
+        "address": "Mumbai, India",
+        "type": "in-person"
+      }
+    }
+  },
+  "timestamp": "2023-08-28T16:01:11.644596Z"
+}
